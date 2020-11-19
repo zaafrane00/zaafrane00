@@ -8,5 +8,5 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...Vue.js
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Anything
-- 📫 How to reach me: ... zaafranehamza@gmail.com
+- 📫 How to reach me: ... zaafranehamza@gmail.com / https://www.linkedin.com/in/hamza-zaafrane/
 - 😄 Pronouns: ... He/Him
