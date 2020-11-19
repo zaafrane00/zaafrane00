@@ -1,4 +1,4 @@
-### Hi there, I'm a freshly graduated bachelor, and i'm currently using Vue.js as my daily tool for web development 👋
+### Hi there, I'm a freshly graduated bachelor student, and i'm currently using Vue.js as my daily tool for web development 👋
 
 
 Here are some ideas to get you started:
