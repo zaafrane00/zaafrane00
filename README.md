@@ -11,6 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... zaafranehamza@gmail.com / https://www.linkedin.com/in/hamza-zaafrane/
 - 😄 Pronouns: ... He/Him
 
-if (_.isAwesome(thisRepo)) {
-  thisRepo.star(); // thanks in advance :p
-}
+ 
