@@ -5,10 +5,8 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working for ... Vermeg Tunisia
 - 🌱 I’m currently learning ... Spring boot and angular
-- 👯 I’m looking to collaborate on ...Vue.js
-- 🤔 I’m looking for help with ... AWS
+- 👯 I’m looking to collaborate on ...Vue.js and Angular
 - 💬 Ask me about ... Anything
 - 📫 How to reach me: ... zaafranehamza@gmail.com / https://www.linkedin.com/in/hamza-zaafrane/
-- 😄 Pronouns: ... He/Him
 
  
