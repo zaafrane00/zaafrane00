@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 
  
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zaafrane00&label=Profile%20views&color=0e75b6&style=flat" alt="hamza zaafrane github profile view count" /> </p>
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zaafrane00)](https://git.io/streak-stats)
+ [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaafrane00&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
