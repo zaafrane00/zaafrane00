@@ -1,7 +1,7 @@
 ### Hi there, I'm a backend developper developper/student at Vermeg, and i'm currently using springboot/hibernate as my daily tool 👋
 ## Contact
-<p> zaafranehamza@gmail.com </p>
-<p>https://www.linkedin.com/in/hamza-zaafrane/</p>
+<p>Mail: zaafranehamza@gmail.com </p>
+<p>Linkedin: https://www.linkedin.com/in/hamza-zaafrane/</p>
 
 
  ## Stats
