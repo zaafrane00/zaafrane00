@@ -2,6 +2,7 @@
 
 - 📫 How to reach me: 
  zaafranehamza@gmail.com 
+ <br/>
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hamza-zaafrane/" height="30" width="40" /></a> [ https://www.linkedin.com/in/hamza-zaafrane/](https://www.linkedin.com/in/hamza-zaafrane/)
 
  
