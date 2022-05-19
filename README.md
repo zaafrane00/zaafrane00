@@ -9,3 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... zaafranehamza@gmail.com / https://www.linkedin.com/in/hamza-zaafrane/
 
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zaafrane00&label=Profile%20views&color=0e75b6&style=flat" alt="hamza zaafrane github profile view count" /> </p>
