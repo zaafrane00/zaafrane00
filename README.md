@@ -3,7 +3,7 @@
 - 📫 How to reach me: 
 <p> zaafranehamza@gmail.com </p>
 
-<p> [zaafranehamza@gmail.com ](https://www.linkedin.com/in/hamza-zaafrane/)</p>
+<p>(https://www.linkedin.com/in/hamza-zaafrane/)</p>
 
 
  
