@@ -1,12 +1,10 @@
 ### Hi there, I'm a backend developper developper/student at Vermeg, and i'm currently using springboot/hibernate as my daily tool 👋
-
-- 📫 How to reach me: 
+## Contact
 <p> zaafranehamza@gmail.com </p>
-
 <p>https://www.linkedin.com/in/hamza-zaafrane/</p>
 
 
- 
+ ## Stats
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zaafrane00&&show_icons=true&theme=dark" alt="Hamza Zaafrane most used dev tools" /></p>
 
  <a href="https://github-readme-stats.vercel.app/api?username=zaafrane00&show_icons=true">  <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="hamza zaafrane streak" src="https://github-readme-streak-stats.herokuapp.com/?user=zaafrane00&theme=gotham&hide_border=true&date_format=j%20M%5B%20Y%5D"/> </a>
