@@ -1,4 +1,4 @@
-### Hi there, I'm a backend developper / student at Vermeg, and i'm currently using springboot/hibernate as my daily tool 👋
+### Hi there, I'm a fullstack developper at Vermeg Company / student, and i'm currently using React and spring as my daily tool 👋
 ## Contact
 <p>E-Mail: zaafranehamza@gmail.com </p>
 <p>Linkedin: https://www.linkedin.com/in/hamza-zaafrane/</p>
