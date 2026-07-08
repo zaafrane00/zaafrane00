@@ -12,7 +12,7 @@
 
 I run production EKS clusters that need to stay up. That means real incidents, real root causes, and real fixes — not just YAML tutorials.
 
-I'm currently open to **remote DevOps roles**.
+I'm currently open to **DevOps roles**.
 
 <br>
 
@@ -52,7 +52,7 @@ I write these up as I go — not polished war stories, just what actually happen
 
 ## Currently exploring
 
-- Remote-first DevOps and Platform Engineering roles.
+- DevOps and Platform Engineering roles.
 - Deeper observability work — custom Grafana dashboards, PromQL, and log-based alerting on Kubernetes.
 - Developer-experience tooling that makes Kubernetes less painful for the people who aren't infra specialists.
 
