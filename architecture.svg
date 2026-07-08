@@ -1,0 +1,65 @@
+<svg width="900" height="440" viewBox="0 0 900 440" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+<path d="M2 1L8 5L2 9" fill="none" stroke="#57606a" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+</marker>
+</defs>
+<rect width="900" height="440" fill="#0d1117"/>
+
+<!-- Git -->
+<rect x="40" y="40" width="160" height="64" rx="10" fill="#21262d" stroke="#8b949e" stroke-width="1"/>
+<text x="120" y="66" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Git repo</text>
+<text x="120" y="88" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial" font-size="12">Helm + manifests</text>
+
+<line x1="200" y1="72" x2="278" y2="72" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<!-- ArgoCD -->
+<rect x="280" y="40" width="160" height="64" rx="10" fill="#2d2440" stroke="#a29bfe" stroke-width="1"/>
+<text x="360" y="66" text-anchor="middle" fill="#d6cdfe" font-family="Segoe UI, Arial" font-size="15" font-weight="600">ArgoCD</text>
+<text x="360" y="88" text-anchor="middle" fill="#b8aef0" font-family="Segoe UI, Arial" font-size="12">GitOps sync</text>
+
+<line x1="440" y1="72" x2="518" y2="72" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<!-- Terraform -->
+<rect x="520" y="40" width="200" height="64" rx="10" fill="#2d2440" stroke="#a29bfe" stroke-width="1"/>
+<text x="620" y="66" text-anchor="middle" fill="#d6cdfe" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Terraform</text>
+<text x="620" y="88" text-anchor="middle" fill="#b8aef0" font-family="Segoe UI, Arial" font-size="12">Infra as code</text>
+
+<line x1="360" y1="104" x2="360" y2="164" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+
+<!-- EKS container -->
+<rect x="60" y="168" width="740" height="210" rx="24" fill="#0c2d2a" stroke="#3fb68c" stroke-width="1"/>
+<text x="84" y="200" fill="#7ee0c4" font-family="Segoe UI, Arial" font-size="16" font-weight="600">Amazon EKS cluster</text>
+<text x="84" y="222" fill="#5fc6a8" font-family="Segoe UI, Arial" font-size="13">us-east-2 and eu-west-1</text>
+
+<!-- Karpenter -->
+<rect x="90" y="240" width="190" height="70" rx="12" fill="#0b2942" stroke="#58a6ff" stroke-width="1"/>
+<text x="185" y="270" text-anchor="middle" fill="#a5d6ff" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Karpenter</text>
+<text x="185" y="292" text-anchor="middle" fill="#7fb8e8" font-family="Segoe UI, Arial" font-size="12">Node autoscaling</text>
+
+<!-- Traefik -->
+<rect x="305" y="240" width="190" height="70" rx="12" fill="#0b2942" stroke="#58a6ff" stroke-width="1"/>
+<text x="400" y="270" text-anchor="middle" fill="#a5d6ff" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Traefik</text>
+<text x="400" y="292" text-anchor="middle" fill="#7fb8e8" font-family="Segoe UI, Arial" font-size="12">Ingress and routing</text>
+
+<!-- Vault -->
+<rect x="520" y="240" width="190" height="70" rx="12" fill="#0b2942" stroke="#58a6ff" stroke-width="1"/>
+<text x="615" y="270" text-anchor="middle" fill="#a5d6ff" font-family="Segoe UI, Arial" font-size="15" font-weight="600">Vault</text>
+<text x="615" y="292" text-anchor="middle" fill="#7fb8e8" font-family="Segoe UI, Arial" font-size="12">Secrets management</text>
+
+<line x1="400" y1="310" x2="400" y2="340" stroke="#57606a" stroke-width="1.5" marker-end="url(#arrow)"/>
+<text x="400" y="332" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial" font-size="12">Metrics + logs + traces</text>
+
+<!-- Grafana stack -->
+<rect x="230" y="345" width="140" height="55" rx="10" fill="#3a2a1a" stroke="#f2a24a" stroke-width="1"/>
+<text x="300" y="372" text-anchor="middle" fill="#f9c98a" font-family="Segoe UI, Arial" font-size="14" font-weight="600">Grafana</text>
+<text x="300" y="389" text-anchor="middle" fill="#e8b678" font-family="Segoe UI, Arial" font-size="10">Dashboards</text>
+
+<rect x="380" y="345" width="140" height="55" rx="10" fill="#2a1a30" stroke="#e6522c" stroke-width="1"/>
+<text x="450" y="372" text-anchor="middle" fill="#f4a688" font-family="Segoe UI, Arial" font-size="14" font-weight="600">Prometheus</text>
+<text x="450" y="389" text-anchor="middle" fill="#e89478" font-family="Segoe UI, Arial" font-size="10">Metrics</text>
+
+<rect x="530" y="345" width="140" height="55" rx="10" fill="#241f3a" stroke="#8c7ae6" stroke-width="1"/>
+<text x="600" y="372" text-anchor="middle" fill="#c4b8f5" font-family="Segoe UI, Arial" font-size="14" font-weight="600">Loki</text>
+<text x="600" y="389" text-anchor="middle" fill="#a99ce0" font-family="Segoe UI, Arial" font-size="10">Log aggregation</text>
+</svg>
