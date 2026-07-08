@@ -18,7 +18,7 @@ I'm currently open to **DevOps roles**.
 
 ## What I actually do
 
-- **Kubernetes at scale** — manage EKS clusters across `us-east-2` and `eu-west-1`, autoscaled with Karpenter.
+- **Kubernetes at scale** — manage EKS clusters across regions, autoscaled with Karpenter.
 - **GitOps** — ArgoCD-driven deployments, including live major-version upgrades with zero downtime.
 - **Ingress & security** — Traefik routing, RBAC design, and incident response when it breaks in production.
 - **Secrets & config** — Vault, Helm, Terraform for infrastructure as code.
@@ -61,7 +61,7 @@ I write these up as I go — not polished war stories, just what actually happen
 ## Contact
 
 <p align="left">
-<a href="mailto:zaafranehamza@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="mailto:hamzazaafrane@outlook.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://www.linkedin.com/in/hamza-zaafrane/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="https://github.com/zaafrane00"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
